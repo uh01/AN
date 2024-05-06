@@ -1,0 +1,4 @@
+https://codeforces.com/problemset/problem/1931/A (A. Recovering a Small String)
+https://codeforces.com/problemset/problem/1941/B (B. Rudolf and 121)
+https://codeforces.com/problemset/problem/1909/C (C. Heavy Intervals)
+https://codeforces.com/problemset/problem/1433/D (D. Districts Connection)

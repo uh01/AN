@@ -1,0 +1,4 @@
+https://codeforces.com/problemset/problem/1581/B (B. Diameter of Graph)
+https://codeforces.com/problemset/problem/1426/C (C. Increase and Copy)
+https://codeforces.com/problemset/problem/1428/C (C. ABBB)
+https://codeforces.com/problemset/problem/1692/D (D. The Clock)
